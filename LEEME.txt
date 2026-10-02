@@ -1,0 +1,22 @@
+METALÚRGICA ALEJO — WEB LISTA PARA SUBIR
+
+1. Descomprimir el ZIP.
+2. Subir index.html, servicios.html, contacto.html, styles.css, app.js y la carpeta assets al directorio público del hosting (normalmente public_html).
+3. Conservar los nombres y la estructura de carpetas. No necesita instalación, compilación, base de datos ni PHP.
+4. Abrir el dominio y comprobar los enlaces de WhatsApp y teléfono desde un celular.
+
+El formulario prepara un mensaje de WhatsApp y lo abre para que el visitante lo revise y envíe. No envía correos automáticamente ni guarda consultas. El enlace de email abre el cliente de correo del visitante.
+
+WhatsApp: https://wa.me/5493755434280
+Teléfono visible: (03755) 15-434280
+Email: metalurgicaalejo2020@gmail.com
+
+Home: index.html / Servicios: servicios.html / Contacto: contacto.html
+Estilos: styles.css / textos e interacciones: app.js
+Imágenes: assets (logo original y siete fotos de obra recuperadas de la conversación; no se incluyen flyers).
+La conversación menciona doce adjuntos; el acceso disponible devolvió diez: un logo, dos flyers y siete fotos.
+
+Las fuentes Barlow y Barlow Condensed se descargan de Google Fonts. Si no hay conexión se usan las fuentes de sistema.
+Las animaciones y el parallax respetan la preferencia de movimiento reducido. El carrusel incluye pausa y controles. El visor se cierra con Escape y permite cambiar de foto con las flechas.
+
+Antes de publicar: confirmar los datos de contacto y la titularidad del número. No se agregó una dirección, horarios, certificaciones ni testimonios sin información proporcionada.
