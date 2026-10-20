@@ -1,0 +1,333 @@
+{
+  "settings": {
+    "headline": "Tinglados a la medida de tu proyecto.",
+    "intro": "Fabricamos y montamos tinglados a medida. También realizamos movimiento de suelo, portones y herrería para acompañar tu obra.",
+    "about": "El punto de partida es tu proyecto: ancho, largo, altura y uso del espacio. Definimos el diseño y el presupuesto, y coordinamos la revisión con un ingeniero antes de construir. El alcance, el contrato y la forma de pago se acuerdan con vos.",
+    "phone": "(03755) 15-434280",
+    "email": "metalurgicaalejo2020@gmail.com",
+    "whatsapp": "5493755434280",
+    "location": ""
+  },
+  "projects": [
+    {
+      "id": "nueva-obra-38",
+      "title": "Tinglado terminado",
+      "category": "Tinglados",
+      "description": "Vista aérea del tinglado y sus cerramientos.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/tinglado-aereo.webp",
+          "type": "image",
+          "alt": "Tinglado terminado"
+        }
+      ]
+    },
+    {
+      "id": "nueva-obra-13",
+      "title": "Armado de cabriadas",
+      "category": "Tinglados",
+      "description": "Fabricación y montaje de la estructura de cubierta.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/montaje-cabriadas.webp",
+          "type": "image",
+          "alt": "Armado de cabriadas"
+        }
+      ]
+    },
+    {
+      "id": "nueva-obra-88",
+      "title": "Estructura metálica en obra",
+      "category": "Estructuras",
+      "description": "Avance del armado de columnas y estructura.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/estructura-metalica.webp",
+          "type": "image",
+          "alt": "Estructura metálica en obra"
+        }
+      ]
+    },
+    {
+      "id": "nueva-obra-1",
+      "title": "Maquinaria en el terreno",
+      "category": "Movimiento de suelo",
+      "description": "Trabajo con maquinaria propia.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/maquinaria-suelo.webp",
+          "type": "image",
+          "alt": "Maquinaria en el terreno"
+        }
+      ]
+    },
+    {
+      "id": "nueva-obra-78",
+      "title": "Excavaciones en obra",
+      "category": "Movimiento de suelo",
+      "description": "Trabajo de excavación junto a la obra.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/excavaciones.webp",
+          "type": "image",
+          "alt": "Excavaciones en obra"
+        }
+      ]
+    },
+    {
+      "id": "nueva-obra-75",
+      "title": "Preparación del terreno",
+      "category": "Movimiento de suelo",
+      "description": "Vista del terreno durante la preparación de la obra.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/nivelacion-terreno.webp",
+          "type": "image",
+          "alt": "Preparación del terreno"
+        }
+      ]
+    },
+    {
+      "id": "nueva-obra-64",
+      "title": "Instalación de cañerías",
+      "category": "Movimiento de suelo",
+      "description": "Tareas de instalación de cañerías.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/instalacion-canerias.webp",
+          "type": "image",
+          "alt": "Instalación de cañerías"
+        }
+      ]
+    },
+    {
+      "id": "nueva-obra-65",
+      "title": "Obra civil en ejecución",
+      "category": "Obras civiles",
+      "description": "Trabajo en obra sobre el terreno.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/obras-civiles.webp",
+          "type": "image",
+          "alt": "Obra civil en ejecución"
+        }
+      ]
+    },
+    {
+      "id": "nueva-obra-45",
+      "title": "Portón industrial",
+      "category": "Portones",
+      "description": "Portón corredizo integrado al cerramiento.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/porton-industrial.webp",
+          "type": "image",
+          "alt": "Portón industrial"
+        }
+      ]
+    },
+    {
+      "id": "nueva-obra-103",
+      "title": "Cabriadas y componentes",
+      "category": "Kits y estructuras",
+      "description": "Componentes preparados para la estructura.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/kit-cabriadas.webp",
+          "type": "image",
+          "alt": "Cabriadas y componentes"
+        }
+      ]
+    },
+    {
+      "id": "nueva-obra-93",
+      "title": "Montaje de columnas",
+      "category": "Montaje",
+      "description": "Armado de la estructura en obra.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/montaje-columnas.webp",
+          "type": "image",
+          "alt": "Montaje de columnas"
+        }
+      ]
+    },
+    {
+      "id": "nueva-obra-29",
+      "title": "Cerramiento del tinglado",
+      "category": "Tinglados",
+      "description": "Montaje del cerramiento en chapa.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/cerramiento-chapa.webp",
+          "type": "image",
+          "alt": "Cerramiento del tinglado"
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "name": "Tinglados y estructuras",
+      "short": "Tinglados",
+      "heading": "El espacio que necesitás.",
+      "description": "Tinglados a medida para el uso que le vas a dar. Partimos del ancho, largo y altura de tu proyecto, definimos el diseño y coordinamos su revisión con un ingeniero antes de construir.",
+      "image": "assets/tinglado-cubierta.webp",
+      "alt": "Tinglado en montaje con cabriadas y cubierta metálica",
+      "items": [
+        "Estructuras parabólicas y a media agua, en hierro o perfiles según el proyecto.",
+        "Fabricación de columnas, cabriadas y perfiles; armado y montaje en obra.",
+        "Cubiertas de chapa, malla, membrana y canaletas según el alcance acordado.",
+        "Cerramientos laterales con chapa y perfiles.",
+        "Diseño, presupuesto, contrato y condiciones de pago acordados para cada trabajo."
+      ],
+      "note": "El montaje del tinglado no incluye pisos ni paredes de mampostería. Los materiales y las medidas se definen para cada proyecto, con la revisión correspondiente."
+    },
+    {
+      "name": "Movimiento de suelo",
+      "short": "Movimiento de suelo",
+      "heading": "El primer paso está en el terreno.",
+      "description": "Trabajos con maquinaria propia y camión volcador para preparar el terreno y acompañar obras civiles y rurales. Coordinamos las tareas según la ubicación y las necesidades de cada obra.",
+      "image": "assets/maquinaria-suelo.webp",
+      "alt": "Máquina trabajando sobre el terreno de una obra",
+      "items": [
+        "Excavaciones en general y apertura de zanjas.",
+        "Nivelaciones y terraplenes.",
+        "Movimiento de suelo con máquina y camión volcador.",
+        "Instalación de cañerías.",
+        "Trabajos para obras civiles y rurales."
+      ]
+    },
+    {
+      "name": "Portones",
+      "short": "Portones",
+      "heading": "Un acceso hecho para tu espacio.",
+      "description": "Fabricación y montaje de portones corredizos a medida, con o sin motor. Conversamos sobre el uso del acceso, las medidas y la terminación para definir la solución.",
+      "image": "assets/porton-industrial.webp",
+      "alt": "Portón industrial corredizo instalado en un tinglado",
+      "items": [
+        "Portones corredizos con y sin motor.",
+        "Accesos residenciales, comerciales e industriales según el proyecto.",
+        "Medidas, diseño y terminaciones a acordar."
+      ]
+    },
+    {
+      "name": "Cercas y rejas",
+      "short": "Cercas y rejas",
+      "heading": "Protección a tu medida.",
+      "description": "Cercas, rejas y trabajos de herrería según las medidas y necesidades de tu espacio.",
+      "items": [
+        "Cercas y rejas para delimitar y proteger espacios.",
+        "Rejas para aberturas.",
+        "Herrería a medida según diseño y aplicación."
+      ]
+    },
+    {
+      "name": "Torres metálicas",
+      "short": "Torres",
+      "heading": "Altura y estructura.",
+      "description": "Fabricación y montaje de torres metálicas según las características del proyecto.",
+      "items": [
+        "Consulta sobre medidas y aplicación.",
+        "Definición del diseño, los materiales y el montaje según el trabajo."
+      ]
+    },
+    {
+      "name": "Extractores",
+      "short": "Extractores",
+      "heading": "Aire para tu espacio.",
+      "description": "Soluciones de extracción para la ventilación de espacios, según el uso y las características del lugar.",
+      "items": [
+        "Consulta por extractores según la aplicación.",
+        "Evaluación de las características del espacio para definir el trabajo."
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "id": "video-20",
+      "src": "assets/videos/obra-20.mp4",
+      "poster": "assets/video-20.webp",
+      "title": "Vista aérea del tinglado",
+      "category": "Tinglados",
+      "duration": 60.7,
+      "portrait": false
+    },
+    {
+      "id": "video-21",
+      "src": "assets/videos/obra-21.mp4",
+      "poster": "assets/video-21.webp",
+      "title": "La estructura desde arriba",
+      "category": "Estructuras",
+      "duration": 88.2,
+      "portrait": false
+    },
+    {
+      "id": "video-1",
+      "src": "assets/videos/obra-01.mp4",
+      "poster": "assets/video-01.webp",
+      "title": "Movimiento de suelo en obra",
+      "category": "Movimiento de suelo",
+      "duration": 15.5,
+      "portrait": true
+    },
+    {
+      "id": "video-4",
+      "src": "assets/videos/obra-04.mp4",
+      "poster": "assets/video-04.webp",
+      "title": "Montaje de la cubierta",
+      "category": "Tinglados",
+      "duration": 6.4,
+      "portrait": true
+    },
+    {
+      "id": "video-6",
+      "src": "assets/videos/obra-06.mp4",
+      "poster": "assets/video-06.webp",
+      "title": "Interior de la estructura",
+      "category": "Estructuras",
+      "duration": 18.4,
+      "portrait": false
+    },
+    {
+      "id": "video-10",
+      "src": "assets/videos/obra-10.mp4",
+      "poster": "assets/video-10.webp",
+      "title": "Columnas y armado en obra",
+      "category": "Montaje",
+      "duration": 16.4,
+      "portrait": true
+    },
+    {
+      "id": "video-14",
+      "src": "assets/videos/obra-14.mp4",
+      "poster": "assets/video-14.webp",
+      "title": "Portón industrial en funcionamiento",
+      "category": "Portones",
+      "duration": 6.8,
+      "portrait": true
+    },
+    {
+      "id": "video-15",
+      "src": "assets/videos/obra-15.mp4",
+      "poster": "assets/video-15.webp",
+      "title": "Avance del montaje",
+      "category": "Montaje",
+      "duration": 7.5,
+      "portrait": false
+    }
+  ],
+  "revision": "seleccion-cliente-2026-10-19-v2"
+}

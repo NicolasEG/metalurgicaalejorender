@@ -1,0 +1,1 @@
+{"name":"metalurgica-alejo","version":"2.0.0","private":true,"scripts":{"start":"node server.js","check":"node --check server.js && node --check app.js && node --check admin.js"},"engines":{"node":">=20"}}

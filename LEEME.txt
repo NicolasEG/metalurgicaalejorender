@@ -1,22 +1,37 @@
-METALÚRGICA ALEJO — WEB LISTA PARA SUBIR
+METALÚRGICA ALEJO — VERSIÓN CORREGIDA
 
-1. Descomprimir el ZIP.
-2. Subir index.html, servicios.html, contacto.html, styles.css, app.js y la carpeta assets al directorio público del hosting (normalmente public_html).
-3. Conservar los nombres y la estructura de carpetas. No necesita instalación, compilación, base de datos ni PHP.
-4. Abrir el dominio y comprobar los enlaces de WhatsApp y teléfono desde un celular.
+ABRIR LA WEB
+Descomprimí el ZIP y abrí index.html con doble clic. También abren directamente servicios.html y contacto.html. No necesitás instalar nada ni iniciar un servidor para ver la web.
+Subí esos HTML, app.js, content-data.js, styles.css y assets/ a un hosting estático para publicar la web.
+Conserva las páginas y el orden de secciones de la web original: portada con logo grande, franja de servicios, presentación con foto, servicios, imagen panorámica, carrusel de trabajos, proceso, consulta y pie. Se renovaron los estilos, se resumieron los cuatro audios y se agregó una sección de videos con reproductor integrado.
 
-El formulario prepara un mensaje de WhatsApp y lo abre para que el visitante lo revise y envíe. No envía correos automáticamente ni guarda consultas. El enlace de email abre el cliente de correo del visitante.
+ADMINISTRADOR LOCAL
+Abrí admin.html con doble clic. Permite editar los textos y contactos, organizar trabajos, cargar fotos y videos, cambiar la portada y dejar borradores.
+1. Editá y guardá los cambios. Se conservan en el navegador de ese dispositivo.
+2. Pulsá Descargar cambios.
+3. Reemplazá content-data.js en la carpeta de la web con el archivo descargado. Mantené exactamente ese nombre.
+4. Volvé a abrir o recargá index.html. Para publicarlo, subí el content-data.js nuevo al hosting.
+La edición local no es un acceso protegido a un servidor ni sincroniza dispositivos. No pide una contraseña ficticia. Las fotos y videos locales se incluyen en el archivo exportado. Usá archivos livianos; máximo 25 MB por archivo en edición local. Los videos grandes conviene cargarlos con el administrador conectado.
+Formatos: JPG, PNG, WebP, MP4 y WebM. El navegador debe soportar el codec del video; MP4 con H.264/AAC suele ser la opción más compatible.
 
-WhatsApp: https://wa.me/5493755434280
-Teléfono visible: (03755) 15-434280
-Email: metalurgicaalejo2020@gmail.com
+ADMINISTRADOR CONECTADO (OPCIONAL)
+La web sigue abriendo directamente sin este modo. Si querés guardar cambios online desde celular y PC, el paquete también incluye el servidor opcional.
+En esta PC: doble clic en INICIAR-WEB.cmd. Abrir http://127.0.0.1:3000/admin. Requiere Node.js 20 o superior (esta PC ya lo tiene).
+La contraseña inicial se genera en data/acceso-inicial.txt. Se puede cambiar desde Mi web > Tu acceso. data/ nunca se publica como carpeta de archivos.
+En este modo se guardan los cambios en data/content.json y las cargas en uploads/. La web lee los cambios del servidor; las fotos y videos pueden pesar hasta 150 MB cada uno.
+Para alojarlo: npm start; almacenamiento persistente para data/ y uploads/, HTTPS y PUBLIC_ORIGIN con el dominio exacto. HOST=0.0.0.0 si el hosting lo requiere; PORT por defecto 3000. 127.0.0.1 solo es accesible desde la propia PC.
 
-Home: index.html / Servicios: servicios.html / Contacto: contacto.html
-Estilos: styles.css / textos e interacciones: app.js
-Imágenes: assets (logo original y siete fotos de obra recuperadas de la conversación; no se incluyen flyers).
-La conversación menciona doce adjuntos; el acceso disponible devolvió diez: un logo, dos flyers y siete fotos.
+CONTENIDO Y MARCA
+Logo original conservado sin modificaciones. Fotos originales conservadas.
+Prioridad del cliente: tinglados a medida, después movimiento de suelo y luego portones/herrería. Se mantienen los demás servicios existentes.
+Se explican obra completa, montaje parcial y kit sin montaje en el contenido existente. Diseño, revisión con ingeniero, alcance y pagos según cada proyecto. No se agregaron fotos inventadas, cifras ni testimonios.
+El contacto prepara un mensaje de WhatsApp para que el visitante lo revise y envíe. No envía mensajes automáticamente.
 
-Las fuentes Barlow y Barlow Condensed se descargan de Google Fonts. Si no hay conexión se usan las fuentes de sistema.
-Las animaciones y el parallax respetan la preferencia de movimiento reducido. El carrusel incluye pausa y controles. El visor se cierra con Escape y permite cambiar de foto con las flechas.
 
-Antes de publicar: confirmar los datos de contacto y la titularidad del número. No se agregó una dirección, horarios, certificaciones ni testimonios sin información proporcionada.
+FOTOS, VIDEOS Y VISTA DE CELULAR
+Se seleccionaron 16 fotos y 8 videos de la carpeta alejometalurgica. Se reemplazaron las fotos visibles anteriores por las nuevas. Se excluyeron flyers, tomas repetidas y material que no mejoraba la selección.
+El logo original se conserva sin modificaciones. Las fotos se optimizaron en WebP, manteniendo los archivos fuente intactos en su carpeta original.
+Videos: sección Videos en la página de inicio, un único reproductor con controles, selección de clips y reproducción dentro de la página. No hay ventanas ni reproductores externos. Los videos no se descargan todos al entrar. Los clips verticales conservan su formato.
+Servicios: tinglados completos, montaje parcial, kits y componentes; excavaciones, nivelaciones, terraplenes, movimiento de suelo, cañerías, obras civiles/rurales, portones y herrería. Cercas/rejas, torres y extractores quedan sin imagen, pendientes de material adecuado.
+En celular: títulos y espacios ajustados, menú táctil, accesos rápidos a servicios, fotos adaptadas y selector horizontal de videos.
+La edición local exporta fotos y videos nuevos en content-data.js. Los videos de la selección inicial están en assets/videos/ y sus datos en content-data.js/content.json. Conservá esa carpeta al copiar o subir la web. En el administrador se pueden agregar videos a los trabajos: aparecerán en la sección Videos cuando los cambios se apliquen. El contenido detallado de Servicios se encuentra en el mismo archivo de datos.

@@ -1,0 +1,1 @@
+{"name": "Metalúrgica Alejo · Administrador", "short_name": "Alejo Admin", "start_url": "/admin", "scope": "/", "display": "standalone", "background_color": "#f4f5f4", "theme_color": "#17191a", "icons": [{"src": "/assets/logo.png", "sizes": "2048x682", "type": "image/png", "purpose": "any"}]}
