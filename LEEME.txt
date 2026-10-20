@@ -35,3 +35,8 @@ Videos: sección Videos en la página de inicio, un único reproductor con contr
 Servicios: tinglados completos, montaje parcial, kits y componentes; excavaciones, nivelaciones, terraplenes, movimiento de suelo, cañerías, obras civiles/rurales, portones y herrería. Cercas/rejas, torres y extractores quedan sin imagen, pendientes de material adecuado.
 En celular: títulos y espacios ajustados, menú táctil, accesos rápidos a servicios, fotos adaptadas y selector horizontal de videos.
 La edición local exporta fotos y videos nuevos en content-data.js. Los videos de la selección inicial están en assets/videos/ y sus datos en content-data.js/content.json. Conservá esa carpeta al copiar o subir la web. En el administrador se pueden agregar videos a los trabajos: aparecerán en la sección Videos cuando los cambios se apliquen. El contenido detallado de Servicios se encuentra en el mismo archivo de datos.
+
+ACTUALIZACIÓN CARPETA2METALURGICA — 20/10/2026
+Se agregaron tubos de cemento para desagües/cunetas y postes olímpicos de hormigón para cercos, tendidos y estructuras, en varias medidas. No se inventaron medidas concretas ni precios.
+Se incorporaron nueve fotos seleccionadas de productos y estructuras, y un video al reproductor existente. Torres metálicas ya tiene foto. Se excluyó la imagen del flyer.
+Se agregó la dirección indicada en el flyer: Ruta Nacional 14, km 294, Aristóbulo del Valle, Misiones. Se conservó el número de contacto existente, que coincide con el flyer.

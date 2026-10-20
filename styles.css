@@ -57,3 +57,5 @@ body{overflow-x:clip}
 main,.footer{overflow-x:clip}
 
 .hero-picture{position:absolute;inset:0;display:block}.hero-picture .hero-bg{max-width:none}
+
+.service-detail-photo.portrait img{object-fit:contain;height:540px;background:#182126}.footer-address{font-size:13px;line-height:1.8;margin-top:18px;max-width:320px}@media(max-width:650px){.service-detail-photo.portrait img{height:auto;aspect-ratio:auto;max-height:none;object-fit:contain}.footer-address{font-size:12px}}

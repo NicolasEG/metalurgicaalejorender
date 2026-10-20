@@ -6,7 +6,7 @@ window.ALEJO_CONTENT = {
     "phone": "(03755) 15-434280",
     "email": "metalurgicaalejo2020@gmail.com",
     "whatsapp": "5493755434280",
-    "location": ""
+    "location": "Ruta Nacional 14, km 294 · Aristóbulo del Valle, Misiones"
   },
   "projects": [
     {
@@ -176,6 +176,87 @@ window.ALEJO_CONTENT = {
           "alt": "Cerramiento del tinglado"
         }
       ]
+    },
+    {
+      "id": "carpeta2-tubos",
+      "title": "Tubos de cemento",
+      "category": "Materiales de hormigón",
+      "description": "Tubos para desagües, cunetas y obras en general. Consultá por las medidas disponibles.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/tubos-cemento.webp",
+          "type": "image",
+          "alt": "Tubos de cemento"
+        },
+        {
+          "src": "assets/tubos-cemento-medidas.webp",
+          "type": "image",
+          "alt": "Tubos de cemento"
+        },
+        {
+          "src": "assets/tubos-hormigon.webp",
+          "type": "image",
+          "alt": "Tubos de cemento"
+        },
+        {
+          "src": "assets/tubos-cemento-detalle.webp",
+          "type": "image",
+          "alt": "Tubos de cemento"
+        }
+      ]
+    },
+    {
+      "id": "carpeta2-postes",
+      "title": "Postes olímpicos de hormigón",
+      "category": "Materiales de hormigón",
+      "description": "Postes para cercos, tendidos y estructuras, en varias medidas.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/postes-olimpicos.webp",
+          "type": "image",
+          "alt": "Postes olímpicos de hormigón"
+        },
+        {
+          "src": "assets/postes-hormigon-detalle.webp",
+          "type": "image",
+          "alt": "Postes olímpicos de hormigón"
+        }
+      ]
+    },
+    {
+      "id": "carpeta2-torres",
+      "title": "Torres y estructuras metálicas",
+      "category": "Torres",
+      "description": "Estructuras metálicas verticales en el predio.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/torres-metalicas.webp",
+          "type": "image",
+          "alt": "Torres y estructuras metálicas"
+        }
+      ]
+    },
+    {
+      "id": "carpeta2-cabriadas",
+      "title": "Cabriadas metálicas",
+      "category": "Kits y estructuras",
+      "description": "Cabriadas y componentes para estructuras metálicas.",
+      "published": true,
+      "media": [
+        {
+          "src": "assets/cabriadas-disponibles.webp",
+          "type": "image",
+          "alt": "Cabriadas metálicas"
+        },
+        {
+          "src": "assets/estructuras-y-cabriadas.webp",
+          "type": "image",
+          "alt": "Cabriadas metálicas"
+        }
+      ]
     }
   ],
   "services": [
@@ -242,7 +323,10 @@ window.ALEJO_CONTENT = {
       "items": [
         "Consulta sobre medidas y aplicación.",
         "Definición del diseño, los materiales y el montaje según el trabajo."
-      ]
+      ],
+      "image": "assets/torres-metalicas.webp",
+      "imagePortrait": true,
+      "alt": "Estructuras metálicas verticales en el predio de Metalúrgica Alejo"
     },
     {
       "name": "Extractores",
@@ -252,6 +336,35 @@ window.ALEJO_CONTENT = {
       "items": [
         "Consulta por extractores según la aplicación.",
         "Evaluación de las características del espacio para definir el trabajo."
+      ]
+    },
+    {
+      "name": "Tubos de cemento",
+      "short": "Tubos de cemento",
+      "heading": "Hormigón para tu obra.",
+      "description": "Tubos de cemento para desagües, cunetas y obras en general. Disponibles en varias medidas para elegir según las necesidades del trabajo.",
+      "image": "assets/tubos-cemento.webp",
+      "imagePortrait": true,
+      "alt": "Tubos de cemento apilados en el predio de Metalúrgica Alejo",
+      "items": [
+        "Aplicaciones en desagües y cunetas.",
+        "Piezas de hormigón para trabajos de obra.",
+        "Varias medidas disponibles.",
+        "Consultá por la medida, la cantidad y la disponibilidad que necesitás."
+      ]
+    },
+    {
+      "name": "Postes olímpicos de hormigón",
+      "short": "Postes olímpicos",
+      "heading": "La base de tu cerco.",
+      "description": "Postes olímpicos de hormigón para cercos, tendidos y estructuras. Una opción resistente y estable, disponible en varias medidas según el proyecto.",
+      "image": "assets/postes-olimpicos.webp",
+      "imagePortrait": true,
+      "alt": "Postes olímpicos de hormigón preparados sobre una base de madera",
+      "items": [
+        "Para cercos, tendidos y estructuras.",
+        "Postes de hormigón con distintas medidas disponibles.",
+        "Consultá por medidas, cantidades y disponibilidad."
       ]
     }
   ],
@@ -327,7 +440,16 @@ window.ALEJO_CONTENT = {
       "category": "Montaje",
       "duration": 7.5,
       "portrait": false
+    },
+    {
+      "id": "video-carpeta2",
+      "src": "assets/videos/estructuras-carpeta2.mp4",
+      "poster": "assets/video-estructuras-carpeta2.webp",
+      "title": "Cabriadas y estructuras metálicas",
+      "category": "Estructuras",
+      "duration": 14.4,
+      "portrait": true
     }
   ],
-  "revision": "seleccion-cliente-2026-10-19-v2"
+  "revision": "seleccion-cliente-2026-10-20-carpeta2"
 };
